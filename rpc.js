@@ -1,21 +1,21 @@
 const rpc = require('discord-rpc');//ArviS#0011
 //ArviS#0011
 const config = {
-	appId: "XXXXXXXXXXXXXXXXXXX", // Bot (Application) ID'sini yazacaksınız
+	appId: "1005783169737437204", // Bot (Application) ID'sini yazacaksınız
 //ArviS#0011
 	details: "❤️・UmutTuncel", // Başlığın altında gözüken ince fontlu yazı kısmı
 //ArviS#0011
-	largeImageKeyName: "arvislogo", // Rich Presence kısmına koyduğunuz fotoğrafın adını yazın
+	largeImageKeyName: "discord-rpc", // Rich Presence kısmına koyduğunuz fotoğrafın adını yazın
 	largeImageText: "UmutTuncel", // Mouse imceli üstüne getirilince gözükecek yazı kısmı
 //ArviS#0011
 	smallImageKeyName: "Doğrulandı", // Rich Presence kısmına koyduğunuz fotoğrafın adını yazın
-	smallImageText: "Discorder", // Mouse imceli üstüne getirilince gözükecek yazı kısmı
+	smallImageText: "Doğrulandı", // Mouse imceli üstüne getirilince gözükecek yazı kısmı
 //ArviS#0011
 	buttonOneName: "Discord", // 1. Buton ismi
-	buttonOneUrl: "https://discord.gg/Cwj4GDPGTW", // 1. Buton URL'si
+	buttonOneUrl: "Yakinda", // 1. Buton URL'si
 //ArviS#0011
 	buttonTwoName: "İnstagram", // 2. Buton İsmi
-	buttonTwoUrl: "https://www.instagram.com/arvis_here/" // 2. Buton URL'si
+	buttonTwoUrl: "https://www.instagram.com/bnumuttt/" // 2. Buton URL'si
 };//ArviS#0011
 //ArviS#0011
 register(config.appId);//ArviS#0011
