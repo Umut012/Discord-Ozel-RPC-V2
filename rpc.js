@@ -3,12 +3,12 @@ const rpc = require('discord-rpc');//ArviS#0011
 const config = {
 	appId: "XXXXXXXXXXXXXXXXXXX", // Bot (Application) ID'sini yazacaksınız
 //ArviS#0011
-	details: "❤️・Software", // Başlığın altında gözüken ince fontlu yazı kısmı
+	details: "❤️・UmutTuncel", // Başlığın altında gözüken ince fontlu yazı kısmı
 //ArviS#0011
 	largeImageKeyName: "arvislogo", // Rich Presence kısmına koyduğunuz fotoğrafın adını yazın
-	largeImageText: "ArviS#0011 Tarafından Yapıldı", // Mouse imceli üstüne getirilince gözükecek yazı kısmı
+	largeImageText: "UmutTuncel", // Mouse imceli üstüne getirilince gözükecek yazı kısmı
 //ArviS#0011
-	smallImageKeyName: "bluetik", // Rich Presence kısmına koyduğunuz fotoğrafın adını yazın
+	smallImageKeyName: "Doğrulandı", // Rich Presence kısmına koyduğunuz fotoğrafın adını yazın
 	smallImageText: "Discorder", // Mouse imceli üstüne getirilince gözükecek yazı kısmı
 //ArviS#0011
 	buttonOneName: "Discord", // 1. Buton ismi
